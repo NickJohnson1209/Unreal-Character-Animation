@@ -1,0 +1,26 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/OrtizBlendSpace.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Ortiz.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Ch43_1001_Diffuse.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Ch43_1001_Glossiness.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Ch43_1001_Normal.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Ch43_1001_Specular.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Ch43_Body.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Ch43_nonPBR.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Ch43_nonPBR_PhysicsAsset.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Injured_Idle.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Injured_Jog.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/Injured_Walking.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/Characters/Ortis_Folder/OrtizBlueprint.uasset",
+				"C:/Users/wwefa/Downloads/Intro to GE/AnimationPractice/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
